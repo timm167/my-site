@@ -1,0 +1,22 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 800 600" xml:space="preserve">
+  <style type="text/css">
+    .st0 { fill: none; stroke: #000000; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; }
+    .st1 { fill: none; stroke: #000000; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; stroke-dasharray: 5,5; }
+  </style>
+  <path class="st0" d="M100,500 C150,450 250,450 300,500 S450,550 500,500 S550,450 600,500 S650,550 700,500"/>
+  <path class="st0" d="M100,500 L700,500"/>
+  <path class="st0" d="M150,500 L150,400"/>
+  <path class="st0" d="M200,500 L200,420"/>
+  <path class="st0" d="M250,500 L250,440"/>
+  <path class="st0" d="M300,500 L300,460"/>
+  <path class="st0" d="M350,500 L350,480"/>
+  <path class="st0" d="M400,500 L400,460"/>
+  <path class="st0" d="M450,500 L450,440"/>
+  <path class="st0" d="M500,500 L500,420"/>
+  <path class="st0" d="M550,500 L550,400"/>
+  <path class="st0" d="M600,500 L600,420"/>
+  <path class="st1" d="M130,480 C165,450 235,450 270,480"/>
+  <path class="st1" d="M170,460 C195,440 245,440 270,460"/>
+  <path class="st1" d="M210,440 C225,430 245,430 260,440"/>
+</svg>
