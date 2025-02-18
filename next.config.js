@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true,
   images: {
+    loader: 'default',
     domains: ["tim-charteris-portfolio.netlify.app", "localhost"],
   },
 }
