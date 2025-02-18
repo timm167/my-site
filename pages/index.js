@@ -123,9 +123,14 @@ export default function Home() {
           </div>
         </div>
         <div className="mt-10 laptop:mt-20 p-2 laptop:p-0 flex flex-col laptop:flex-row items-center laptop:items-start space-y-5 laptop:space-y-0 laptop:space-x-10">
-          <div className="w-40 h-40 tablet:w-56 tablet:h-56 laptop:w-64 laptop:h-64 bg-gray-300 rounded-full flex items-center justify-center shadow-md">
-            <img src="/images/image.png" alt="Profile Image" className="w-40 h-40 tablet:w-56 tablet:h-56 laptop:w-64 laptop:h-64 bg-gray-300 rounded-full object-cover"/>
-          </div>
+        <div className="w-40 h-40 tablet:w-56 tablet:h-56 laptop:w-64 laptop:h-64 bg-gray-300 rounded-full flex items-center justify-center shadow-md relative">
+          <Image
+            src="/images/image.png"
+            alt="Profile Image"
+            layout="fill"  // Make the image fill the parent container
+            className="bg-gray-300 rounded-full object-cover"
+          />
+        </div>
           <div className="w-full laptop:w-4/5">
             <h1 className="tablet:m-10 text-2xl font-bold">About</h1>
             
