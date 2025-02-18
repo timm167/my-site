@@ -19,7 +19,11 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
 
   useEffect(() => {
     setMounted(true);
-
+    if (theme != "dark" ){
+      setTheme("light");
+    } else if (theme != "light") {
+      setTheme("dark");
+    }
   }, [theme]);
 
   if (!mounted) {
