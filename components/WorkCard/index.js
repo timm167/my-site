@@ -16,7 +16,6 @@ const WorkCard = ({ img, name, description, onClick }) => {
           className="object-cover hover:scale-110 transition-all ease-out duration-300"
           src={'/' + img}
           layout="fill"  // Image will fill the parent container
-          unoptimized
         />
       </div>
       <h1 className="mt-5 text-3xl font-medium">
