@@ -135,8 +135,8 @@ export default function Home() {
             <h1 className="tablet:m-10 text-2xl font-bold">About</h1>
             
             <p className="tablet:m-10 mt-2 text-xl laptop:text-l w-full">
-              I'm an Oxford University graduate with a passion for software development and technology. 
-              I'm currently based in Newcastle and open for work. Get in touch using the contact links below.<br/>
+              I&apos;m an Oxford University graduate with a passion for software development and technology. 
+              I&apos;m currently based in Newcastle and open for work. Get in touch using the contact links below.<br/>
               <br/>
               Otherwise, to learn more you can <Link className="underline" href="">view my CV</Link> or check out my <Link href="https://github.com/timm167">Github.</Link>
             </p>

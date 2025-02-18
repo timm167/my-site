@@ -19,7 +19,6 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
 
   useEffect(() => {
     setMounted(true);
-    console.log("Theme: ", theme);
   }, []);
 
   if (!mounted) {
