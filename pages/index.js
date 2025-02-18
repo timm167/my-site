@@ -127,7 +127,7 @@ export default function Home() {
           <Image
             src="/images/image.png"
             alt="Profile Image"
-            layout="fill"  // Make the image fill the parent container
+            layout="fill" 
             className="bg-gray-300 rounded-full object-cover"
             unoptimized
           />

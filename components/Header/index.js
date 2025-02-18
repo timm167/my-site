@@ -24,7 +24,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
     } else if (theme != "light") {
       setTheme("dark");
     }
-  }, [theme]);
+  }, [theme, setTheme]);
 
   if (!mounted) {
     return null; 
