@@ -129,6 +129,7 @@ export default function Home() {
             alt="Profile Image"
             layout="fill"  // Make the image fill the parent container
             className="bg-gray-300 rounded-full object-cover"
+            unoptimized
           />
         </div>
           <div className="w-full laptop:w-4/5">
