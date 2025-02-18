@@ -139,7 +139,8 @@ export default function Home() {
               I&apos;m an Oxford University graduate with a passion for software development and technology. 
               I&apos;m currently based in Newcastle and open for work. Get in touch using the contact links below.<br/>
               <br/>
-              Otherwise, to learn more you can <Link className="underline" href="">view my CV</Link> or check out my <Link href="https://github.com/timm167">Github.</Link>
+              Otherwise, to learn more you can <a href="/Timothy-Charteris-CV.pdf" target="_blank" rel="noopener noreferrer"> view my CV </a>
+              or check out my <a href="https://github.com/timm167" target="_blank" rel="noopener noreferrer" >Github.</a>
             </p>
           </div>
 
