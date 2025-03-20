@@ -46,7 +46,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
         <div className="flex">
           <Button onClick={handleWorkScroll}>Portfolio</Button>
           <Button onClick={handleAboutScroll}>About</Button>
-          <a href="/Timothy Charteris-CV.pdf" target="_blank" rel="noopener noreferrer">
+          <a href="/Timothy-_harteris_CV.pdf" target="_blank" rel="noopener noreferrer">
                <Button className="first:ml-1">View CV</Button>
           </a>
 
